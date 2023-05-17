@@ -5,7 +5,7 @@
     <hr>
 <<<<<<< HEAD
      
-    <label for="Name"><b>Enter Name May 18/5</b></label>
+    <label for="Name"><b>Enter Name May 18/2023</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
