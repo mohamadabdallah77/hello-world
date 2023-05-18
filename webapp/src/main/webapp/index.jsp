@@ -5,7 +5,7 @@
     <hr>
 <<<<<<< HEAD
      
-    <label for="Name"><b>Enter Name May last last</b></label>
+    <label for="Name"><b>Enter Name May finally</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
